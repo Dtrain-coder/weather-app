@@ -1,11 +1,11 @@
 body {
-  background-color: #1ab6af;
+  background-color: #097570;
   padding: 5px;
 }
 button {
   display: block;
   margin: 0 auto;
-  border-radius: 5px;
+  border-radius: 1px;
 }
 form {
   text-align: right;
