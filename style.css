@@ -3,14 +3,19 @@ body {
   padding: 5px;
 }
 button {
+  background-color: aliceblue;
   display: block;
+  cursor: pointer;
   margin: 0 auto;
-  border-radius: 1px;
+  border-radius: 10px;
+  color: #bae8e8;
+  text-align: right;
 }
 form {
   text-align: right;
   padding: 1px 2px;
-  margin: 0 auto;
+  margin: 60 px auto 0 auto;
+  width: 200px;
 }
 h1 {
   text-align: center;
