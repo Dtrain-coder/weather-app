@@ -11,6 +11,11 @@ button {
   color: #bae8e8;
   text-align: right;
 }
+.square {
+  background-color: cadetblue;
+  width: 100px;
+  height: 100px;
+}
 form {
   text-align: right;
   padding: 1px 2px;
@@ -20,7 +25,7 @@ form {
 }
 h1 {
   text-align: center;
-  color: #1aaad2;
+  color: #c1dbe2;
 }
 h2 {
   text-align: center;
